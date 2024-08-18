@@ -1,5 +1,7 @@
 # AdvenTravel Web Site
 
+[English](#english) | [Türkçe](#türkçe)
+
 ## Genel Bakış
 
 
