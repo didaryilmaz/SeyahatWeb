@@ -31,15 +31,22 @@ Admin tarafından sayfa düzenlemelerinin yapıldığı birkaç sayfa.
    ```bash
    git clone [https://github.com/didaryilmaz/SeyahatWeb]
    cd SeyahatWeb
-3. **Uygulamayı başlat:**
-
+   
+3. **Veritabanı Ayarları:**
+    ```
+   {
+     "ConnectionStrings": {
+       "DefaultConnection": "Server=localhost:63038;Database=dbTravel;Trusted_Connection=True;"
+     }
+   }
    ```
+4. **Uygulamayı başlat:**
+
    dotnet restore
    dotnet build
    dotnet run
    
-   ```
-4. **Tarayıcıda Görüntüleme:**
+6. **Tarayıcıda Görüntüleme:**
 
    - http://localhost:63038 adresini tarayıcınızda açarak projeyi görüntüleyebilirsiniz.
 
@@ -70,4 +77,23 @@ Several pages where page edits are made by the admin.
    ```bash
    git clone [https://github.com/didaryilmaz/SeyahatWeb]
    cd SeyahatWeb
+
+3. **Database Configuration:**
+    ```
+   {
+     "ConnectionStrings": {
+       "DefaultConnection": "Server=localhost:63038;Database=dbTravel;Trusted_Connection=True;"
+     }
+   }
+
+4. **Start the Application:**
+
+   dotnet restore
+   dotnet build
+   dotnet run
+   
+6. **View in Browser:**
+
+   - Open http://localhost:63038 in your browser to view the project.
+
 
