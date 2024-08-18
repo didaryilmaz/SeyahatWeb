@@ -36,7 +36,6 @@
                         <asp:Label ID="lblTarih" runat="server" Text=""></asp:Label>
                     </div>
                         <asp:Button ID="Button1" runat="server" Text="Kaydet" CssClass="btn btn-gradient-primary me-2" OnClick="Button1_Click" />
-                        <asp:Button ID="Button3" runat="server" Text="Kaydet" CssClass="btn btn-gradient-primary me-2" OnClick="Button1_Click" />
 
                     
                 </form>
