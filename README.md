@@ -8,7 +8,9 @@ Adventravel, seyahat tutkunlarını bir araya getiren ve seyahat için en uygun 
 ## Uygulama içi ekran görüntüleri
 ![Adsız tasarım](https://github.com/user-attachments/assets/fdc4cd7b-f67a-48af-9581-df66cb9303b4)
 Kullanıcı tarafından görüntülenebilen birkaç sayfa.
-![Adsız tasarım (1)](https://github.com/user-attachments/assets/2e3f5bc1-308e-41bc-a72e-f8cd2866f437)
+
+![Adsız tasarım (1)2](https://github.com/user-attachments/assets/f8f64421-b553-46b2-8d7a-71a674e654e7)
+
 Admin tarafından sayfa düzenlemelerinin yapıldığı birkaç sayfa.
 ## Özellikler
 
