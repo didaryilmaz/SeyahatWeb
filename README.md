@@ -17,36 +17,25 @@ Admin tarafından sayfa düzenlemelerinin yapıldığı birkaç sayfa.
 - Seyahat önerileri ve ipuçları keşfedin.
 - Blog sayfalarını inceleyin.
 
-## Başlangıç
+##  Kurulum
 
-#### Gereklilikler
-Başlamadan önce aşağıdaki gereksinimleri karşıladığınızdan emin olun:
+1. **Gereksinimler:**
+   - [.NET SDK](https://dotnet.microsoft.com/download) yüklü olmalıdır.
+   - [SQL Server](https://www.microsoft.com/tr-tr/sql-server/sql-server-downloads) veya başka bir veritabanı sunucusu gerekebilir.
 
-- Geliştirme makinenize npm kurulu olmalıdır.
-- Node.js (includes npm)
-- Bu deponun kopyasını yerel makinenize kopyalayın.
-- Uygun tablolar ve yapılandırmaya sahip Firebase veritabanı.
+2. **Projeyi İndirme:**
+   ```bash
+   git clone [https://github.com/didaryilmaz/SeyahatWeb]
+   cd SeyahatWeb
 
-#### Kurulum
-Projeyi yüklemek ve çalıştırmak için şu adımları izleyin:
+Uygulamayı başlat:
+```
+dotnet restore
+dotnet build
+dotnet run
 
-1.Bağımlılıkları yükleyin:
 ```
-npm install
-```
-2.Uygulamayı başlat:
-```
- npx expo start
-```
-Çıktıda, uygulamayı bir pencerede açma seçeneklerini bulacaksınız.
+Tarayıcıda Görüntüleme:
 
-- development build
-- Android emulator
-- iOS simulator
-- Expo Go, Expo ile uygulama geliştirmeyi denemek için sınırlı bir deneme alanı
-Uygulama dizinindeki dosyaları düzenleyerek geliştirmeye başlayabilirsiniz . Bu proje dosya tabanlı yönlendirme kullanır .
+- http://localhost:63038 adresini tarayıcınızda açarak projeyi görüntüleyebilirsiniz.
 
-Projeyi yerele klonla:
-```
-git clone https://github.com/didaryilmaz/SeyahatBlogApp.git
-```
