@@ -27,15 +27,15 @@ Admin tarafından sayfa düzenlemelerinin yapıldığı birkaç sayfa.
    ```bash
    git clone [https://github.com/didaryilmaz/SeyahatWeb]
    cd SeyahatWeb
+3. **Uygulamayı başlat:**
 
-Uygulamayı başlat:
-```
-dotnet restore
-dotnet build
-dotnet run
+   ```
+   dotnet restore
+   dotnet build
+   dotnet run
+   
+   ```
+4. **Tarayıcıda Görüntüleme:**
 
-```
-Tarayıcıda Görüntüleme:
-
-- http://localhost:63038 adresini tarayıcınızda açarak projeyi görüntüleyebilirsiniz.
+   - http://localhost:63038 adresini tarayıcınızda açarak projeyi görüntüleyebilirsiniz.
 
