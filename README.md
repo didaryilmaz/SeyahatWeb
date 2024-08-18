@@ -6,7 +6,7 @@
 Adventravel, seyahat tutkunlarını bir araya getiren ve seyahat için en uygun tur paketlerini bulmalarına olanak tanıyan bir web sayfasıdır. Kullanıcılar, bu platform aracılığıyla en uygun tur paketleri bulabilir,  blog sayfalarını inceleyerek seyahat ipuçları ve önerilerinden faydalanabilirler.
 
 ## Uygulama içi ekran görüntüleri
-<img width="960" alt="Ekran görüntüsü 2024-08-18 1520433746" src="https://github.com/user-attachments/assets/59da41ba-eafd-4871-bbc7-cb7d4fef5934">
+![Adsız tasarım](https://github.com/user-attachments/assets/fdc4cd7b-f67a-48af-9581-df66cb9303b4)
 
 ## Özellikler
 
